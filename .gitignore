@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# # Dataset
+# datasets/
+aircraft_damage_dataset_v1/
+# *.tar
+
+# Trained models
+*.h5
+*.keras
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
