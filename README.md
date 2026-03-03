@@ -44,9 +44,8 @@ Additionally, BLIP generates descriptive captions for images.
 
 | Metric | Value |
 |--------|--------|
-| Training Accuracy | ~79% |
-| Validation Accuracy | ~71% |
-| Test Accuracy | **81%** |
+| Training Accuracy | 83.3% || Validation Accuracy | 81.3% |
+| Test Accuracy | **84.4%** |
 
 Test accuracy is slightly higher than training accuracy.
 This is expected because data augmentation and dropout are applied during training, making training data harder. During testing, images are clean and dropout is disabled, allowing the model to perform slightly better.
