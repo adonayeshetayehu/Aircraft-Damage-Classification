@@ -24,7 +24,7 @@ Additionally, BLIP generates descriptive captions for images.
 - Binary Image Classification
 - BLIP Image Captioning (HuggingFace Transformers)
 - EarlyStopping & Learning Rate Scheduling
-- ~81% Test Accuracy
+- 84.4% Test Accuracy
 
 ---
 
@@ -44,7 +44,8 @@ Additionally, BLIP generates descriptive captions for images.
 
 | Metric | Value |
 |--------|--------|
-| Training Accuracy | 83.3% || Validation Accuracy | 81.3% |
+| Training Accuracy | 83.3% |
+| Validation Accuracy | 81.3% |
 | Test Accuracy | **84.4%** |
 
 Test accuracy is slightly higher than training accuracy.
