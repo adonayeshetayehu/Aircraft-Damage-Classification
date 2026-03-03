@@ -5,8 +5,8 @@
 This project implements a deep learning system for **aircraft damage detection** using transfer learning and integrates **image captioning** using BLIP (Bootstrapped Language Image Pretraining).
 
 The model classifies aircraft images into:
-- Damaged
-- Not Damaged
+- Crack
+- Dent
 
 Additionally, BLIP generates descriptive captions for images.
 
