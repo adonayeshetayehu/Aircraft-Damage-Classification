@@ -14,7 +14,7 @@ __pycache__/
 
 # # Dataset
 # datasets/
-aircraft_damage_dataset_v1/
+# aircraft_damage_dataset_v1/
 # *.tar
 
 # Trained models
